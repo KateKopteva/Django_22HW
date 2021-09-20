@@ -21,4 +21,5 @@ urlpatterns = [
     path('', include('hw_22_a.urls')),
     path('', include('hw_22_b.urls')),
     path('', include('hw_22_c.urls')),
+    path('', include('hw_22_d.urls')),
 ]

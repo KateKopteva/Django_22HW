@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'hw_22_a',
     'hw_22_b',
     'hw_22_c',
+    'hw_22_d',
     'rest_framework',
 ]
 
