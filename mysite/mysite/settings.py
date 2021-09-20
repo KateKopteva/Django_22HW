@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'hw_22_a',
+    'hw_22_b',
     'rest_framework',
 ]
 
